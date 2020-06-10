@@ -5,7 +5,7 @@ const Child = ({userName})=>{
     return(
         <div>
             <h1>Hey there! I'm {userName.firstName} {userName.lastName} </h1>
-            <h2>I'm from Child Component </h2>
+            <h2>I'm from Child Component* </h2>
             <hr/>
 
 
